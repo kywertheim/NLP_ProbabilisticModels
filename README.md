@@ -10,3 +10,6 @@ This notebook presents a hidden Markov model for part-of-speech tagging in terms
 
 3. C2_W3_Assignment.ipynb:
 This notebook records the procedures involved in building an auto-complete system based on the n-grams language model and the perplexity score.
+
+4. C2_W4_Assignment.ipynb:
+This notebook explains how the continuous bag of words (CBOW) model can be used to generate word embeddings from a corpus.
